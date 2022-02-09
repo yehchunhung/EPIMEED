@@ -1,0 +1,2 @@
+WorkerID A2IAGMWHPAFGCT was blocked due to spending < 2 min.s average on the task (No. of HITs - 1) Time spent on task: 1.8332333333333333
+WorkerID A1SME61MQIXTFW was blocked due to spending < 2 min.s average on the task (No. of HITs - 7) Time spent on task: 1.9990166666666667

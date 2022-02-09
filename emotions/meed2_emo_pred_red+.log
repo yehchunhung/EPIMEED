@@ -1,0 +1,108 @@
+red+ predicting on red+...
+Model has been built.
+Checkpoint emo_checkpoints/red+/ckpt-2 restored.
+Number of testing examples: 73629
+Accuracy	0.1502
+Macro	P: 0.0631, R: 0.0357, F: 0.0226
+Weighted	P: 0.1029, R: 0.1502, F: 0.0676
+Saving the prediction results...
+
+red+ predicting on red+...
+Model has been built.
+Checkpoint emo_checkpoints/red+/ckpt-1 restored.
+Number of testing examples: 73629
+Accuracy	0.1485
+Macro	P: 0.0673, R: 0.0384, F: 0.0265
+Weighted	P: 0.1071, R: 0.1485, F: 0.0794
+Saving the prediction results...
+
+red predicting on red+...
+Model has been built.
+Checkpoint emo_checkpoints/red/ckpt-12 restored.
+Number of testing examples: 73629
+Accuracy	0.1541
+Macro	P: 0.1158, R: 0.0424, F: 0.0328
+Weighted	P: 0.1407, R: 0.1541, F: 0.0891
+Saving the prediction results...
+
+red predicting on red+...
+Model has been built.
+Checkpoint emo_checkpoints/red/ckpt-12 restored.
+Number of testing examples: 73629
+Accuracy	0.1508
+Macro	P: 0.0815, R: 0.0399, F: 0.0294
+Weighted	P: 0.1241, R: 0.1508, F: 0.0795
+Saving the prediction results...
+
+red predicting on red+_mask...
+Model has been built.
+Checkpoint emo_checkpoints/red/ckpt-12 restored.
+Number of testing examples: 73629
+Accuracy	0.1541
+Macro	P: 0.1158, R: 0.0424, F: 0.0328
+Weighted	P: 0.1407, R: 0.1541, F: 0.0891
+Saving the prediction results...
+
+red+ predicting on red+...
+Model has been built.
+Checkpoint emo_checkpoints/red+/ckpt-2 restored.
+Number of testing examples: 73629
+Accuracy	0.1502
+Macro	P: 0.0631, R: 0.0357, F: 0.0226
+Weighted	P: 0.1029, R: 0.1502, F: 0.0676
+Saving the prediction results...
+
+red+ predicting on red+...
+Model has been built.
+Checkpoint emo_checkpoints/red+/ckpt-3 restored.
+Number of testing examples: 73629
+Accuracy	0.1548
+Macro	P: 0.1351, R: 0.0459, F: 0.0395
+Weighted	P: 0.1536, R: 0.1548, F: 0.0969
+Saving the prediction results...
+
+red+ predicting on red+...
+Model has been built.
+Checkpoint emo_checkpoints/red+/ckpt-1 restored.
+Number of testing examples: 73629
+Accuracy	0.1458
+Macro	P: 0.1103, R: 0.0366, F: 0.0271
+Weighted	P: 0.1662, R: 0.1458, F: 0.0821
+Saving the prediction results...
+
+red+ predicting on red+...
+Model has been built.
+Checkpoint emo_checkpoints/red+/ckpt-4 restored.
+Number of testing examples: 73629
+Accuracy	0.1565
+Macro	P: 0.0988, R: 0.0481, F: 0.0421
+Weighted	P: 0.1368, R: 0.1565, F: 0.0975
+Saving the prediction results...
+
+red+ predicting on red+...
+Model has been built.
+Checkpoint emo_checkpoints/red+/ckpt-3 restored.
+Number of testing examples: 73629
+Accuracy	0.1548
+Macro	P: 0.1351, R: 0.0459, F: 0.0395
+Weighted	P: 0.1536, R: 0.1548, F: 0.0969
+Saving the prediction results...
+
+red+ predicting on red+_mask...
+Model has been built.
+Checkpoint emo_checkpoints/red+/ckpt-3 restored.
+Number of testing examples: 73629
+Accuracy	0.1548
+Macro	P: 0.1351, R: 0.0459, F: 0.0395
+Weighted	P: 0.1536, R: 0.1548, F: 0.0969
+Saving the prediction results...
+
+red predicting on red+_mask...
+Model has been built.
+Checkpoint emo_checkpoints/red/ckpt-12 restored.
+Number of testing examples: 73629
+Accuracy	0.1541
+Macro	P: 0.1158, R: 0.0424, F: 0.0328
+Weighted	P: 0.1407, R: 0.1541, F: 0.0891
+Saving the prediction results...
+

@@ -1,0 +1,16 @@
+{
+  "STATIC_ROOT": "https://storage.googleapis.com/ui-static.cocodataset.org",
+  "HIT":{
+    "USE_SANDBOX": false,
+    "REGION_NAME": "us-east-1",
+    "Title": "Rating dialogue responses",
+    "Description": "Rate dialogue responses as 'Good', 'Okay', or 'Bad' according to how empathetically appropriate they are.",
+    "Keywords": "dialogue, empathy, chatbot",
+    "Reward": "0.4",
+    "MaxAssignments": 3,
+    "LifetimeInSeconds": 604800,
+    "AssignmentDurationInSeconds": 3600,
+    "AutoApprovalDelayInSeconds": 259200,
+    "FrameHeight": 800
+  }
+}

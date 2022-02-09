@@ -1,0 +1,7 @@
+.git
+.gitignore
+.DS_Store
+__pycache__
+log
+README.md
+rsync_exclude.txt
