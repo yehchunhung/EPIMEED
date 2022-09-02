@@ -28,8 +28,13 @@ The dataset for this project is referred to our prior work, [RED](https://github
 - Testing: [Google Drive](https://drive.google.com/drive/folders/1E_A9KcxH3vK3358lUPeW4i48h54ljhUD?usp=sharing)
 
 ## Steps to Reproduce Result
+Here `model name` specified below can be replaced by `ed`, `osed`, or `red`. All the code should be run on **Python 3**.
 
-TODO
+1. After loading the datasets, we can first run `train_emo_{model name}.py` to train our next sentence emotion predictor, which is built upon RoBERTa and fine tuning.
+2. Attach emotion labels to each dialog response using `predict_emo_{model name}.py`.
+3. Run `train_{model name}.py` to train the Transformer model for response generation augmented by predicted next-sentence emotion and predicted communication levels.
+4. Run `auto_metrics.py` to evaluate the models by the automated metrics, like perplexity.
+5. To further evaluate the models, run `python-scripts-red-chat-mturk/main.py` to collect rating from the recruited human raters. Note that the server should be set up to run on AWS Mechanical Turks.
 
 ## References
 
