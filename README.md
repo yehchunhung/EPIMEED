@@ -2,7 +2,7 @@
 
 In recent years, more and more people choose to use text-based platforms for their mental health support. Thus, building empathetic chatbots has been a popular research topic aiming at generating syntactically and emotionally appropriate responses. In this work, we develop multi-turn empathetic dialog models which can not only recognize human emotions but also rely on the well defined cognitive framework to assess expressed empathy in texts.
 
-The summary of this work can be seen here [Slide version](https://docs.google.com/presentation/d/1WjodJYjNGu9j28TGGo3upg2G1z2S11Cbwy_hh1cNWU4/edit?usp=sharing) and [Poster version](https://drive.google.com/file/d/15awdf-yebXaNvjqd0vzsgG9Y1lE6cUye/view?usp=sharing).
+The summary can be seen here [Slide version](https://docs.google.com/presentation/d/1WjodJYjNGu9j28TGGo3upg2G1z2S11Cbwy_hh1cNWU4/edit?usp=sharing) and [Poster version](https://drive.google.com/file/d/15awdf-yebXaNvjqd0vzsgG9Y1lE6cUye/view?usp=sharing).
 
 ## Table of Contents
 
