@@ -23,9 +23,9 @@ There are many files used in this work. Here we point out the mainly used ones.
 
 The dataset for this project is referred to our prior work, [RED](https://github.com/yehchunhung/RED). To fit our computing resources, we further summarized the text dialogs and filtered to accomodate only the dialogs within 100 tokens. The final version of our used dataset can be seen as followed. Note that each dataset folder may contain 5 files, where `uttrs.txt` stores the selected dialogs while the rest stores the encoded information about text dialogs, emotions, communication levels, and the associated mask tokens.
 
-- Training: [Google Drive](https://drive.google.com/drive/folders/1Mappsxy3kvAprqi2c9TvSbP5o8fp6XEF?usp=sharing)
-- Validation: [Google Drive](https://drive.google.com/drive/folders/1ax-JoKRbZuiXf1eP-bRc231E_Bn7VKgA?usp=sharing)
-- Testing: [Google Drive](https://drive.google.com/drive/folders/1E_A9KcxH3vK3358lUPeW4i48h54ljhUD?usp=sharing)
+- Training: [HERE](https://terabox.com/s/1XMxebSD2I01RsiCkyfQvhA)
+- Validation: [HERE](https://terabox.com/s/1iKriTTDvqMdOG55Cg380Tg)
+- Testing: [HERE](https://terabox.com/s/1C2fSJ6QYI89dpzOKv96l0g)
 
 ## Steps to Reproduce Result
 Here `model name` specified below can be replaced by `ed`, `osed`, or `red`. All the code should be run on **Python 3**.
